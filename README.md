@@ -1,6 +1,6 @@
 # hello-world
 ## github のデータ編集
-'''sh
+```sh
 hub create
 hub browse
-'''
+```
